@@ -68,7 +68,7 @@
                     <npmVersion>${build.npm.version}</npmVersion>
 
                     <nodeDownloadRoot>https://nodejs.org/dist/</nodeDownloadRoot>
-                    <npmDownloadRoot>https://registry.npm.taobao.org/npm/-/</npmDownloadRoot>
+                    <npmDownloadRoot>https://nodejs.org/dist/npm/</npmDownloadRoot>
                 </configuration>
                 <executions>
                     <execution>
